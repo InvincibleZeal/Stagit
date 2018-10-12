@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/stagit/static/js/runtime~main.c5fb1304.js"
   },
   {
-    "revision": "2512288d4d6efa9991a1",
-    "url": "/stagit/static/js/main.2512288d.chunk.js"
+    "revision": "7b280726534d211b0f0d",
+    "url": "/stagit/static/js/main.7b280726.chunk.js"
   },
   {
-    "revision": "3b9391d3f8a1ae812c8b",
-    "url": "/stagit/static/js/1.3b9391d3.chunk.js"
+    "revision": "d39a611bcfe6e4480473",
+    "url": "/stagit/static/js/1.d39a611b.chunk.js"
   },
   {
-    "revision": "2512288d4d6efa9991a1",
-    "url": "/stagit/static/css/main.37205548.chunk.css"
+    "revision": "7b280726534d211b0f0d",
+    "url": "/stagit/static/css/main.e349e012.chunk.css"
   },
   {
-    "revision": "952bcae467fc9a9db7811095ded11fe7",
+    "revision": "1ea40e27c42b8a461c5c8753560805bd",
     "url": "/stagit/index.html"
   }
 ];
