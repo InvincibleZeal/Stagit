@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5a8dbffcff70efef6006",
+    "revision": "2ecd7b4baca060b8de07",
     "url": "/stagit/static/css/main.f0b3094a.chunk.css"
   },
   {
-    "revision": "5a8dbffcff70efef6006",
-    "url": "/stagit/static/js/main.5a8dbffc.chunk.js"
+    "revision": "2ecd7b4baca060b8de07",
+    "url": "/stagit/static/js/main.2ecd7b4b.chunk.js"
   },
   {
     "revision": "df947695adc66de8c8ca",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/stagit/static/media/OpenSans-Light.1bf71be1.ttf"
   },
   {
-    "revision": "fe983b029be1cc449f6e6e493e31c516",
+    "revision": "dedcd9dae61669fc13dc2c4bbcbe77b5",
     "url": "/stagit/index.html"
   }
 ];

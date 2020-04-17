@@ -1,7 +1,7 @@
 {
   "main.css": "/stagit/static/css/main.f0b3094a.chunk.css",
-  "main.js": "/stagit/static/js/main.5a8dbffc.chunk.js",
-  "main.js.map": "/stagit/static/js/main.5a8dbffc.chunk.js.map",
+  "main.js": "/stagit/static/js/main.2ecd7b4b.chunk.js",
+  "main.js.map": "/stagit/static/js/main.2ecd7b4b.chunk.js.map",
   "static/js/1.df947695.chunk.js": "/stagit/static/js/1.df947695.chunk.js",
   "static/js/1.df947695.chunk.js.map": "/stagit/static/js/1.df947695.chunk.js.map",
   "runtime~main.js": "/stagit/static/js/runtime~main.c5fb1304.js",
@@ -9,6 +9,6 @@
   "static/media/App.css": "/stagit/static/media/OpenSans-Light.1bf71be1.ttf",
   "static/css/main.f0b3094a.chunk.css.map": "/stagit/static/css/main.f0b3094a.chunk.css.map",
   "index.html": "/stagit/index.html",
-  "precache-manifest.c8ad4add3c7bc1df15fc6b3276b490e1.js": "/stagit/precache-manifest.c8ad4add3c7bc1df15fc6b3276b490e1.js",
+  "precache-manifest.44cdde636c44366b929f7f9bbba875c4.js": "/stagit/precache-manifest.44cdde636c44366b929f7f9bbba875c4.js",
   "service-worker.js": "/stagit/service-worker.js"
 }
