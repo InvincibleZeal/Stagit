@@ -1,14 +1,14 @@
 {
-  "main.css": "/stagit/static/css/main.e349e012.chunk.css",
-  "main.js": "/stagit/static/js/main.7b280726.chunk.js",
-  "main.js.map": "/stagit/static/js/main.7b280726.chunk.js.map",
-  "static/js/1.d39a611b.chunk.js": "/stagit/static/js/1.d39a611b.chunk.js",
-  "static/js/1.d39a611b.chunk.js.map": "/stagit/static/js/1.d39a611b.chunk.js.map",
+  "main.css": "/stagit/static/css/main.f0b3094a.chunk.css",
+  "main.js": "/stagit/static/js/main.5a8dbffc.chunk.js",
+  "main.js.map": "/stagit/static/js/main.5a8dbffc.chunk.js.map",
+  "static/js/1.df947695.chunk.js": "/stagit/static/js/1.df947695.chunk.js",
+  "static/js/1.df947695.chunk.js.map": "/stagit/static/js/1.df947695.chunk.js.map",
   "runtime~main.js": "/stagit/static/js/runtime~main.c5fb1304.js",
   "runtime~main.js.map": "/stagit/static/js/runtime~main.c5fb1304.js.map",
-  "static/css/main.e349e012.chunk.css.map": "/stagit/static/css/main.e349e012.chunk.css.map",
   "static/media/App.css": "/stagit/static/media/OpenSans-Light.1bf71be1.ttf",
+  "static/css/main.f0b3094a.chunk.css.map": "/stagit/static/css/main.f0b3094a.chunk.css.map",
   "index.html": "/stagit/index.html",
-  "precache-manifest.6bb086a853f868da36c7c6b73c17df20.js": "/stagit/precache-manifest.6bb086a853f868da36c7c6b73c17df20.js",
+  "precache-manifest.c8ad4add3c7bc1df15fc6b3276b490e1.js": "/stagit/precache-manifest.c8ad4add3c7bc1df15fc6b3276b490e1.js",
   "service-worker.js": "/stagit/service-worker.js"
 }
