@@ -1,5 +1,5 @@
 {
-  "name": "github-user-stats",
+  "name": "stagit",
   "version": "0.1.0",
   "private": true,
   "author": "Ritesh Ganjewala <ritesh.ganjewala17@gmail.com> (https://github.com/InvincibleZeal)",
@@ -13,7 +13,7 @@
     "react-scripts": "2.0.4"
   },
   "scripts": {
-    "predeploy": "yarn build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -30,6 +30,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.2.0"
   }
 }
